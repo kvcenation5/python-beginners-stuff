@@ -23,3 +23,9 @@ print(msg)
 
 b=3.0/2
 print(b)
+
+print (12-8)
+print (4+4)
+print(16/2)
+messg = (4*2)
+print("My favourite # is " , messg)
