@@ -29,3 +29,5 @@ print (4+4)
 print(16/2)
 messg = (4*2)
 print("My favourite # is " , messg)
+
+import this
