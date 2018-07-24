@@ -1,0 +1,11 @@
+name="Saro"
+print("Hello "+ name + ''', when are "you" starting to learn python ''')
+
+name="Kalai"
+print(name.upper())
+print(name.lower())
+print(name.title())
+print("Names: \n\tkalai\n\tSaro")
+
+a=2*3
+print(a)
