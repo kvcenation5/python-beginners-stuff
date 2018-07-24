@@ -67,7 +67,12 @@ del dinner[0]
 
 print(dinner)
 
-print("The list at the end of the day for dinner, lol " + dinner)
+p'''print("The list at the end of the day for dinner, lol " + dinner)
+Traceback (most recent call last):
+  File "/Users/kalaivendhan/git/python-beginners-stuff/python_work/dinner_lisy.py", line 70, in <module>
+    print("The list at the end of the day for dinner, lol " + dinner)
+TypeError: cannot concatenate 'str' and 'list' objects'''
+
 
 #Try this execution so it can print all the pop list
 '''system = 0
