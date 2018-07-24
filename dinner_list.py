@@ -67,7 +67,7 @@ del dinner[0]
 
 print(dinner)
 
-p'''print("The list at the end of the day for dinner, lol " + dinner)
+'''print("The list at the end of the day for dinner, lol " + dinner)
 Traceback (most recent call last):
   File "/Users/kalaivendhan/git/python-beginners-stuff/python_work/dinner_lisy.py", line 70, in <module>
     print("The list at the end of the day for dinner, lol " + dinner)
