@@ -64,8 +64,25 @@ for i in dinner:
 del dinner[0]
 del dinner[0]
 #Since the max entry on the array has already been removed two '0's
-
+#print("The list at the end of the day for dinner, lol" + print(dinner))
 print(dinner)
+
+''' print("The list at the end of the day for dinner, lol" + (dinner)) 
+python prints the who program result except the above line saying there is an error.
+
+""
+print("The list at the end of the day for dinner, lol" + (dinner)) 
+
+python doesnot even executes other codes throwing below error
+
+[Running] python "/Users/kalaivendhan/git/python-beginners-stuff/python_work/dinner_list.py"
+  File "/Users/kalaivendhan/git/python-beginners-stuff/python_work/dinner_list.py", line 67
+    print("The list at the end of the day for dinner, lol" + print(dinner))
+                                                                 ^
+SyntaxError: invalid syntax
+
+[Done] exited with code=1 in 0.037 seconds'''
+
 
 '''print("The list at the end of the day for dinner, lol " + dinner)
 Traceback (most recent call last):
